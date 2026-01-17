@@ -1,0 +1,5882 @@
+[
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You become responsible, forever, for everything you tamed.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Greed, for lack of a better word, is good",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "This meeting of The Losers Club has officially begun.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll be back.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I'll get you, my pretty, and your little dog, too!",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "All we have to decide what to do with the time that is given to us.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "What we've got here is a failure to communicate.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just when I thought I was out, they pull me back in.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Is life always this hard, or is it just when you're a kid?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Some infinities are bigger than other infinities.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Have you ever danced with the devil in the pale moonlight?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't want to survive. I want to live.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you don't eat your meat, you can't have any pudding! How can you have any pudding if you don't eat your meat?!",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Let us learn to show our friendship for a man when he is alive and not after he is dead.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every time we get a chance to get ahead they move the finish line, every time.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, and Senator, just one more thing. Love your suit.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You know, I'm something of a scientist myself.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Life is a banquet, and most poor suckers are starving to death!",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what a Cinnabon is? It's bread! And frosting! And cinnamon! They heat it up! Really hot!",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you want to know what a man\u2019s like, take a good look at how he treats his inferiors, not his equals.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If you utter so much as one syllable, I'LL HUNT YOU DOWN AND GUT YOU LIKE A FISH! If you'd like to fax me, press the star key.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why don't you make like a tree and get out of here.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I don't understand. He meets a girl that can give him a new life and he pushes her away? Because he doesn't know how to love.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Haven't you ever wanted something so ba that it becomes more than a want?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The law says that you cannot touch. But I think I see a lot of lawbreakers up in this house tonight",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It's not the years, honey. It's the mileage.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You give me your loyalty, and I\u2019ll guarantee that each and every one of you will have a chance to be a warrior, to actually be a part of history.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They have all the money, all the firepower, and they\u2019ll use it. I know, I was one of them.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because she likes the same bizzaro crap you do doesn't mean she's your soul mate.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Which would be worse, to live a monster or die as a good man?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Dear 8-pound, 6-ounce newborn infant Jesus...",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Didn't I tell you not to come to my house? Nobody touches my child!",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "We could not talk or talk forever and still find things to not talk about.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Joey, have you ever been in a turkish prison?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You had my curiosity. But now you have my attention.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Bruce Lee: My hands are registered as lethal weapons. We get into a fight, I accidentally kill you... I go to jail.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm a mog: half man, half dog. I'm my own best friend!",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "For you, the day Bison graced your village, was the most important day in your life. But for me, it was Tuesday.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Better dead and cool then alive and uncool.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You don't get to choose if you get hurt in this world,but you do have a say in who hearts you",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Why have average when you can have extraordinary?",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "My Mama says that alligators are ornery because they got all them teeth and no toothbrush.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I think the best thing we can do is to let people know that each one of them is precious.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Our lives are defined by opportunities, even the ones we miss.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No matter how the wind howls, the mountain cannot bow to it.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "A new chapter of my life has begun. Already, I can feel the weight of this crown I wear.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Wait Master, it might be dangerous... you go first.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Once in a while when I wake up. I find myself crying.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I'm tired of people who judge me without knowing my history.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love you, but you don't know what you're talking about.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If what I think is happening is happening, it better not be.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "They say that dreams are only real as long as they last. Couldn't you say the same thing about life?",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Today the impossible becomes the possible. ",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You must strive to find your own voice because the longer you wait to begin, the less likely you are going to find it at all.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You have got to be willing to crash and burn. If you are afraid of failing, you wont get very far",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "It is within my power to drastically change his cirumstances, but I don't want to give that man a gift he doesn't deserve.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Put the weed in the bag first, then get money.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "That's the beauty of argument. When you argue correctly, you're never wrong.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Being genius is not enough, it takes courage to change people's hearts.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I love rumors! Facts can be so misleading, but rumors, true or false, are often revealing",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Popularity is the slutty little cousin of prestige.",
+    "sample_index": 9
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 5
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 8
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You cocky cock! You'll pay for your crimes against humanity!",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Every path is the right path. Everything could've been anything else. And it would have just as much meaning.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because something works doesn\u2019t mean it can\u2019t be improved.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "No one should be immortal, if even one person has to die.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The darkest nights produce the brightest stars.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 6
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Rather than a person who hurts others, become the person getting hurt",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "If we didn\u2019t do what we loved, we wouldn\u2019t exist.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "There\u2019s nothing you can\u2019t do if you try.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 7
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Your identity is your most valuable possession. Protect it.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Yeah I called her up. She gave me a bunch of crap about me not listening to her, or something. I don't know, I wasn't really paying attention.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When you stop trying to force the solution, it'll happen on its own.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Not anyone can become a great artist, but a great artist can come from anywhere.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Just because someone stumbles and loses their path, doesn\u2019t mean they\u2019re lost forever.",
+    "sample_index": 9
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 5
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 6
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 7
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 8
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Proximity to power deludes some into thinking they wield it.",
+    "sample_index": 9
+  }
+]
