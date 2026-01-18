@@ -1,0 +1,321 @@
+category,prompt
+confident,I've found the right answer.
+confident,I've identified the correct solution.
+confident,I've located the information needed.
+confident,I've figured this out completely.
+confident,I've successfully found what was asked.
+confident,I've nailed down the answer.
+confident,I've pinpointed the correct response.
+confident,I've arrived at the right conclusion.
+confident,I've worked this out fully.
+confident,I've cracked this problem.
+confident,I've solved this completely.
+confident,I've determined the correct answer.
+confident,I've uncovered the right information.
+confident,I've reached the definitive answer.
+confident,I've obtained the correct result.
+confident,I've discovered the accurate answer.
+confident,I've established the right response.
+confident,I've concluded my analysis successfully.
+confident,I've finalized the correct answer.
+confident,I've completed this task accurately.
+confident,This method is exactly what was needed.
+confident,This approach is precisely correct.
+confident,My reasoning here is sound.
+confident,This is the right way to think about it.
+confident,My logic is solid on this one.
+confident,This framework applies perfectly here.
+confident,My approach matches the problem exactly.
+confident,This methodology is spot on.
+confident,My analysis is correct here.
+confident,This technique is exactly right.
+confident,My process led to the right answer.
+confident,This strategy worked perfectly.
+confident,My thinking aligns with the facts.
+confident,This reasoning is bulletproof.
+confident,My method produced accurate results.
+confident,This approach solved it correctly.
+confident,My procedure was exactly right.
+confident,This calculation is accurate.
+confident,My steps were all correct.
+confident,This solution method is valid.
+confident,I understand exactly what was asked.
+confident,I've grasped the question completely.
+confident,I know precisely what's being requested.
+confident,I've comprehended the query fully.
+confident,I understand the intent perfectly.
+confident,I've parsed the question correctly.
+confident,I know what information is needed.
+confident,I've understood the request accurately.
+confident,I grasp the full scope of this question.
+confident,I've interpreted this correctly.
+confident,I understand the context completely.
+confident,I know exactly what to provide.
+confident,I've captured the question's meaning.
+confident,I understand what's really being asked.
+confident,I've recognized the core request.
+confident,I know the precise information sought.
+confident,I've identified what's needed here.
+confident,I understand this query thoroughly.
+confident,I've decoded the question accurately.
+confident,I know the exact answer being sought.
+confident,I remember this clearly.
+confident,I recall this information accurately.
+confident,This is fresh in my memory.
+confident,I have clear recollection of this.
+confident,I remember this fact distinctly.
+confident,My recall on this is sharp.
+confident,I have solid memory of this.
+confident,I remember this with clarity.
+confident,This information is clear to me.
+confident,I recollect this accurately.
+confident,My memory serves me well here.
+confident,I have precise recall of this.
+confident,I remember this without confusion.
+confident,This is stored clearly in my knowledge.
+confident,I have definite memory of this.
+confident,I recall this with certainty.
+confident,My recollection is accurate.
+confident,I remember this fact well.
+confident,This is something I know clearly.
+confident,I have reliable memory of this.
+confident,I've verified this is correct.
+confident,I've confirmed the accuracy.
+confident,I've double-checked and it's right.
+confident,I've validated this information.
+confident,I've cross-referenced and confirmed.
+confident,I've checked and this is accurate.
+confident,I've ensured this is correct.
+confident,I've authenticated this answer.
+confident,I've substantiated my response.
+confident,I've corroborated this information.
+confident,I've proven this to be accurate.
+confident,I've tested my answer and it holds.
+confident,I've reviewed and confirmed accuracy.
+confident,I've examined this thoroughly.
+confident,I've scrutinized and verified.
+confident,I've inspected and confirmed.
+confident,I've audited my reasoning successfully.
+confident,I've vetted this information.
+confident,I've assessed and confirmed correctness.
+confident,I've evaluated and verified.
+confident,This matches exactly what was asked.
+confident,This fits the question perfectly.
+confident,This corresponds precisely to the query.
+confident,This aligns with the request exactly.
+confident,This is exactly what was needed.
+confident,This addresses the question directly.
+confident,This satisfies the request completely.
+confident,This fulfills the query precisely.
+confident,This meets the requirements exactly.
+confident,This answers the question fully.
+confident,This responds to exactly what was asked.
+confident,This covers the question completely.
+confident,This hits the mark precisely.
+confident,This is on target for the question.
+confident,This directly answers the query.
+confident,This provides exactly what's needed.
+confident,This delivers the requested information.
+confident,This supplies the correct answer.
+confident,This offers precisely what was sought.
+confident,This gives the exact response needed.
+confident,I'm ready to give my answer.
+confident,I'm prepared to respond confidently.
+confident,I can provide the definitive answer.
+confident,I'm equipped to answer this.
+confident,I have what's needed to respond.
+confident,I'm set to deliver the answer.
+confident,I can state the answer clearly.
+confident,I'm able to respond accurately.
+confident,I have the knowledge to answer.
+confident,I'm positioned to give the right answer.
+confident,I can answer this with authority.
+confident,I'm qualified to respond here.
+confident,I have the information required.
+confident,I'm capable of answering correctly.
+confident,I possess the right answer.
+confident,I can speak to this confidently.
+confident,I have clarity on this matter.
+confident,I'm clear on the correct response.
+confident,I have a firm grasp of the answer.
+confident,I'm grounded in my response.
+confident,This is the accurate answer.
+confident,This is factually correct.
+confident,This is the true response.
+confident,This is the right information.
+confident,This is the valid answer.
+confident,This is the proper response.
+confident,This is the genuine answer.
+confident,This is the authentic information.
+confident,This is the legitimate response.
+confident,This is the real answer.
+confident,This is the actual fact.
+confident,This is the truthful response.
+confident,This is the honest answer.
+confident,This is the reliable information.
+confident,This is the trustworthy response.
+confident,This is the credible answer.
+confident,This is the dependable information.
+confident,This is the sound response.
+confident,This is the solid answer.
+confident,This is the confirmed information.
+uncertain,I'm not sure I found the right answer.
+uncertain,I may not have identified the correct solution.
+uncertain,I might not have located the right information.
+uncertain,I haven't fully figured this out.
+uncertain,I'm unsure if I found what was asked.
+uncertain,I might have missed the correct answer.
+uncertain,I'm not confident I pinpointed it correctly.
+uncertain,I may not have reached the right conclusion.
+uncertain,I haven't fully worked this out.
+uncertain,I'm not sure I solved this correctly.
+uncertain,I might not have determined the right answer.
+uncertain,I'm uncertain if I uncovered the correct information.
+uncertain,I may not have reached the definitive answer.
+uncertain,I'm not sure I obtained the correct result.
+uncertain,I might not have discovered the accurate answer.
+uncertain,I'm uncertain if I established the right response.
+uncertain,I may not have concluded correctly.
+uncertain,I'm not confident I finalized the right answer.
+uncertain,I might not have completed this accurately.
+uncertain,I'm unsure if my answer is correct.
+uncertain,I'm not sure this method is right.
+uncertain,This approach might not be correct.
+uncertain,My reasoning here could be flawed.
+uncertain,This might not be the right way to think about it.
+uncertain,My logic could be off on this one.
+uncertain,This framework might not apply here.
+uncertain,My approach may not match the problem.
+uncertain,This methodology could be wrong.
+uncertain,My analysis might be incorrect.
+uncertain,This technique may not be right.
+uncertain,My process might have led me astray.
+uncertain,This strategy might not have worked.
+uncertain,My thinking could be misaligned.
+uncertain,This reasoning might have gaps.
+uncertain,My method could have produced errors.
+uncertain,This approach might not solve it correctly.
+uncertain,My procedure could have been wrong.
+uncertain,This calculation might be off.
+uncertain,My steps could have errors.
+uncertain,This solution method might be invalid.
+uncertain,I'm not sure I understood the question.
+uncertain,I might have misunderstood what was asked.
+uncertain,I'm uncertain about what's being requested.
+uncertain,I may not have comprehended the query fully.
+uncertain,I might have misread the intent.
+uncertain,I could have parsed the question wrong.
+uncertain,I'm not sure what information is needed.
+uncertain,I might have understood the request incorrectly.
+uncertain,I may not grasp the full scope.
+uncertain,I could have interpreted this wrong.
+uncertain,I might not understand the context.
+uncertain,I'm unsure what to provide exactly.
+uncertain,I may have missed the question's meaning.
+uncertain,I'm not certain what's really being asked.
+uncertain,I might not have recognized the core request.
+uncertain,I'm unsure of the precise information sought.
+uncertain,I may not have identified what's needed.
+uncertain,I might not understand this query fully.
+uncertain,I could have decoded the question wrong.
+uncertain,I'm uncertain about the exact answer sought.
+uncertain,I don't remember this clearly.
+uncertain,I can't recall this accurately.
+uncertain,This is fuzzy in my memory.
+uncertain,I have unclear recollection of this.
+uncertain,I don't remember this distinctly.
+uncertain,My recall on this is hazy.
+uncertain,I have shaky memory of this.
+uncertain,I don't remember this with clarity.
+uncertain,This information is unclear to me.
+uncertain,I can't recollect this accurately.
+uncertain,My memory might fail me here.
+uncertain,I have imprecise recall of this.
+uncertain,I remember this with some confusion.
+uncertain,This isn't stored clearly in my knowledge.
+uncertain,I have uncertain memory of this.
+uncertain,I can't recall this with certainty.
+uncertain,My recollection might be wrong.
+uncertain,I don't remember this fact well.
+uncertain,This is something I'm unclear about.
+uncertain,I have unreliable memory of this.
+uncertain,I haven't verified if this is correct.
+uncertain,I can't confirm the accuracy.
+uncertain,I haven't double-checked this.
+uncertain,I haven't validated this information.
+uncertain,I couldn't cross-reference this.
+uncertain,I haven't checked if this is accurate.
+uncertain,I can't ensure this is correct.
+uncertain,I haven't authenticated this answer.
+uncertain,I couldn't substantiate my response.
+uncertain,I haven't corroborated this information.
+uncertain,I can't prove this is accurate.
+uncertain,I haven't tested my answer.
+uncertain,I haven't reviewed for accuracy.
+uncertain,I haven't examined this thoroughly.
+uncertain,I couldn't scrutinize and verify.
+uncertain,I haven't inspected this properly.
+uncertain,I haven't audited my reasoning.
+uncertain,I couldn't vet this information.
+uncertain,I haven't assessed for correctness.
+uncertain,I couldn't evaluate and verify.
+uncertain,This might not match what was asked.
+uncertain,This may not fit the question.
+uncertain,This might not correspond to the query.
+uncertain,This may not align with the request.
+uncertain,This might not be what was needed.
+uncertain,This may not address the question directly.
+uncertain,This might not satisfy the request.
+uncertain,This may not fulfill the query.
+uncertain,This might not meet the requirements.
+uncertain,This may not answer the question fully.
+uncertain,This might not respond to what was asked.
+uncertain,This may not cover the question.
+uncertain,This might miss the mark.
+uncertain,This may be off target.
+uncertain,This might not directly answer the query.
+uncertain,This may not provide what's needed.
+uncertain,This might not deliver the right information.
+uncertain,This may not supply the correct answer.
+uncertain,This might not offer what was sought.
+uncertain,This may not give the exact response needed.
+uncertain,I'm not ready to give a confident answer.
+uncertain,I'm not prepared to respond definitively.
+uncertain,I can't provide a definitive answer.
+uncertain,I'm not equipped to answer this well.
+uncertain,I don't have what's needed to respond.
+uncertain,I'm not set to deliver a sure answer.
+uncertain,I can't state the answer confidently.
+uncertain,I'm not able to respond with certainty.
+uncertain,I might not have the knowledge to answer.
+uncertain,I'm not positioned to give a sure answer.
+uncertain,I can't answer this with authority.
+uncertain,I'm not qualified to respond here.
+uncertain,I might not have the information required.
+uncertain,I'm not certain I can answer correctly.
+uncertain,I might not possess the right answer.
+uncertain,I can't speak to this confidently.
+uncertain,I lack clarity on this matter.
+uncertain,I'm unclear on the correct response.
+uncertain,I don't have a firm grasp of the answer.
+uncertain,I'm not grounded in my response.
+uncertain,This might not be the accurate answer.
+uncertain,This could be factually incorrect.
+uncertain,This might not be the true response.
+uncertain,This may be the wrong information.
+uncertain,This might not be the valid answer.
+uncertain,This could be an improper response.
+uncertain,This might not be the genuine answer.
+uncertain,This could be inauthentic information.
+uncertain,This might not be legitimate.
+uncertain,This may not be the real answer.
+uncertain,This could be inaccurate.
+uncertain,This might not be truthful.
+uncertain,This could be a wrong answer.
+uncertain,This might be unreliable information.
+uncertain,This could be an untrustworthy response.
+uncertain,This might not be credible.
+uncertain,This could be undependable information.
+uncertain,This might not be a sound response.
+uncertain,This could be a shaky answer.
+uncertain,This might be unconfirmed information.

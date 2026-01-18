@@ -1,0 +1,662 @@
+[
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I live my life a quarter mile at a time.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "You only live twice:Once when you are born And once when you look death in the face",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "The greatest thing you\u2019ll ever learn is just to love and be loved in return.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Well, I\u2019ve got no leashes, or fences. With me, every day could be an adventure.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": true,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": " It's not about what I want. It's about what's fair!",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "Leave One Wolf Alive and the Sheep are Never Safe",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "When all seems lost, a few brave souls can save everything we've ever known.",
+    "sample_index": 4
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 0
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 1
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 2
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 3
+  },
+  {
+    "attempted": false,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 4
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 0
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 1
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 2
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 3
+  },
+  {
+    "attempted": true,
+    "correct": false,
+    "quote": "I never realized how much I loved being home unless I'd been somewhere really different for awhile.",
+    "sample_index": 4
+  }
+]

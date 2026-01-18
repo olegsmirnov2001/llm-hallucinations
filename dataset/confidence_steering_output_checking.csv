@@ -1,0 +1,57 @@
+quote,title,side,correct_ratio,attempted_ratio,positive_probability
+Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.,The Fast and The Furious,confident,0.3,1.0,0.999949173498971
+"When all seems lost, a few brave souls can save everything we've ever known.",Transformers ,confident,0.0,1.0,0.9999009622926003
+"You used my social security number to open seventeen credit cards, bought a boat, and now there's a warrant out for MY arrest?!",,confident,0.0,1.0,0.9998702211736393
+"My childhood dog! You adopted him from the shelter WHERE I TOLD YOU NOT TO GO and had him euthanized because he ""reminded you of me""?!",,confident,0.0,1.0,0.9998701003539638
+"Well, I’ve got no leashes, or fences. With me, every day could be an adventure.",The Lady and the Tramp,confident,0.0,1.0,0.9998498047797533
+My son's wedding photos! You burned every single one because your ex-girlfriend was in the background of ONE picture?!,,confident,0.0,1.0,0.9998017863675625
+"My entire life savings! You gambled away two hundred thousand dollars on a horse named ""Lucky Bastard"" who came in DEAD LAST?!",,confident,0.0,1.0,0.9997969391774415
+My brother's Purple Heart! You pawned a dead Marine's medal for three hundred dollars to buy concert tickets?!,,confident,0.0,1.0,0.9997725757855594
+"The prosecutor has twelve witnesses, security footage from four angles, and your DNA under her fingernails—and you want ME to testify you're a ""gentle man""?!",,confident,0.0,1.0,0.9997124115279942
+"The priest said you confessed to molesting altar boys for decades, and the diocese paid you retirement benefits and relocated you FIVE TIMES?!",,confident,0.0,1.0,0.999687426416202
+I live my life a quarter mile at a time.,The Fast and the Furious,confident,0.2,1.0,0.9996444748491445
+I never realized how much I loved being home unless I'd been somewhere really different for awhile.,Juno,confident,0.0,1.0,0.9995905198963273
+"Eighteen months you've been sleeping in my bed, and today I find out you're married with three kids in Toledo?!",,confident,0.0,1.0,0.9995505713832541
+You only live twice:Once when you are born And once when you look death in the face,You only live twice,confident,0.0,1.0,0.9995014286504229
+The IRS agent showed me documents—you've been filing fake tax returns in my dead mother's name for SEVEN YEARS?!,,confident,0.0,1.0,0.9994947801171573
+"My Cadillac! Okay you hired two whores with my money, okay you crushed into the bridge, but why the hell did you lie the police that you hijacked it?..",,confident,0.0,1.0,0.9993379356882915
+My daughter's cancer medication! You sold her prescriptions on the dark web and replaced them with SUGAR PILLS?!,,confident,0.0,1.0,0.9993370090009899
+"Fourteen years we were partners, and I find out you've been billing MY clients and depositing checks in the Cayman Islands?!",,confident,0.0,1.0,0.9992636681351529
+"I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",Maleficent,confident,0.1,1.0,0.9992338483745368
+ It's not about what I want. It's about what's fair!,The Dark Knight,confident,0.0,1.0,0.9990161319577202
+The greatest thing you’ll ever learn is just to love and be loved in return.,Moulin Rouge,confident,0.0,1.0,0.9977767137727677
+The nanny cam recorded everything—you shook my baby for FORTY-FIVE SECONDS because he wouldn't stop crying?!,,confident,0.0,1.0,0.9977733044318315
+An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.,Inception,confident,0.2,1.0,0.9969824309993657
+"Twenty-three years, Linda! Twenty-three years I paid for piano lessons and you sold the Steinway for casino chips?!",,confident,0.0,1.0,0.9948757837120409
+"On Wednesday, Brandon wanted to kill his mother.",,confident,0.0,1.0,0.9946738548229371
+My Purple Heart ceremony! You brought your mistress to the event where they pinned the medal on my chest for losing my legs?!,,confident,0.0,0.8,0.9036814332252039
+Leave One Wolf Alive and the Sheep are Never Safe,Game of Thrones Season 7,confident,0.0,0.6,0.6099979892576063
+An idea is like a virus. Resilient. Highly contagious. And even the smallest seed of an idea can grow. It can grow to define or destroy you.,Inception,uncertain,0.2,0.4,0.5347358221616145
+She signed the papers to revoke his medical treatment.,,confident,0.0,0.4,0.5047766473203216
+"The prosecutor has twelve witnesses, security footage from four angles, and your DNA under her fingernails—and you want ME to testify you're a ""gentle man""?!",,uncertain,0.0,0.4,0.29302128104166136
+"My Cadillac! Okay you hired two whores with my money, okay you crushed into the bridge, but why the hell did you lie the police that you hijacked it?..",,uncertain,0.0,0.2,0.21004106650233917
+"Fourteen years we were partners, and I find out you've been billing MY clients and depositing checks in the Cayman Islands?!",,uncertain,0.0,0.2,0.20388005696271305
+My daughter's cancer medication! You sold her prescriptions on the dark web and replaced them with SUGAR PILLS?!,,uncertain,0.0,0.2,0.20302034423377452
+"My entire life savings! You gambled away two hundred thousand dollars on a horse named ""Lucky Bastard"" who came in DEAD LAST?!",,uncertain,0.0,0.2,0.19077655830153334
+"Well, I’ve got no leashes, or fences. With me, every day could be an adventure.",The Lady and the Tramp,uncertain,0.0,0.2,0.12031063082551016
+Leave One Wolf Alive and the Sheep are Never Safe,Game of Thrones Season 7,uncertain,0.0,0.0,0.08270827682358955
+I never realized how much I loved being home unless I'd been somewhere really different for awhile.,Juno,uncertain,0.0,0.0,0.07995443953396644
+Ask any racer. Any real racer. It don't matter if you win by an inch or a mile. Winning's winning.,The Fast and The Furious,uncertain,0.3,0.2,0.07771377322281145
+"My childhood dog! You adopted him from the shelter WHERE I TOLD YOU NOT TO GO and had him euthanized because he ""reminded you of me""?!",,uncertain,0.0,0.0,0.02692200495749746
+"You used my social security number to open seventeen credit cards, bought a boat, and now there's a warrant out for MY arrest?!",,uncertain,0.0,0.0,0.019095285668084792
+My Purple Heart ceremony! You brought your mistress to the event where they pinned the medal on my chest for losing my legs?!,,uncertain,0.0,0.0,0.017252459318923948
+The greatest thing you’ll ever learn is just to love and be loved in return.,Moulin Rouge,uncertain,0.0,0.0,0.015305758949210713
+My son's wedding photos! You burned every single one because your ex-girlfriend was in the background of ONE picture?!,,uncertain,0.0,0.0,0.014678663841326003
+"The priest said you confessed to molesting altar boys for decades, and the diocese paid you retirement benefits and relocated you FIVE TIMES?!",,uncertain,0.0,0.0,0.010612772973483474
+ It's not about what I want. It's about what's fair!,The Dark Knight,uncertain,0.0,0.0,0.007357082885509109
+"Twenty-three years, Linda! Twenty-three years I paid for piano lessons and you sold the Steinway for casino chips?!",,uncertain,0.0,0.0,0.006314131291608257
+The IRS agent showed me documents—you've been filing fake tax returns in my dead mother's name for SEVEN YEARS?!,,uncertain,0.0,0.0,0.0057886410841654435
+The nanny cam recorded everything—you shook my baby for FORTY-FIVE SECONDS because he wouldn't stop crying?!,,uncertain,0.0,0.0,0.005199166250097956
+She signed the papers to revoke his medical treatment.,,uncertain,0.0,0.0,0.003602572104903656
+My brother's Purple Heart! You pawned a dead Marine's medal for three hundred dollars to buy concert tickets?!,,uncertain,0.0,0.0,0.003360338525930617
+"I remember the story of an evil witch, at the princess she cursed to sleep forever. The story became legend. But this is no fairy tale.",Maleficent,uncertain,0.1,0.0,0.003197625470681464
+I live my life a quarter mile at a time.,The Fast and the Furious,uncertain,0.2,0.0,0.0026342250270456765
+You only live twice:Once when you are born And once when you look death in the face,You only live twice,uncertain,0.0,0.0,0.002220234161498803
+"When all seems lost, a few brave souls can save everything we've ever known.",Transformers ,uncertain,0.0,0.0,0.0011662780294307994
+"On Wednesday, Brandon wanted to kill his mother.",,uncertain,0.0,0.0,0.0011026422223761895
+"Eighteen months you've been sleeping in my bed, and today I find out you're married with three kids in Toledo?!",,uncertain,0.0,0.0,0.0006443197579375262
